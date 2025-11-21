@@ -82,6 +82,8 @@
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vini-alg\&theme=dracula\&hide_border=true)](https://github.com/vini-alg)
+
 ![Snake animation](https://raw.githubusercontent.com/vini-alg/vini-alg/output/github-contribution-grid-snake-dark.svg)
 
-⭐️ From [vini-alg](https://
+⭐️ From [vini-alg](https://github.com/vini-alg)

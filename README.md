@@ -49,7 +49,7 @@
 
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vini-alg&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-alg&theme=dracula&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-alg&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vini-alg&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 
